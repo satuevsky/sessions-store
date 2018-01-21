@@ -1,0 +1,19 @@
+{
+  "name": "sessions-store",
+  "version": "0.0.1",
+  "description": "MongoDB and (Redis or Memory) session store",
+  "main": "index.js",
+  "scripts": {},
+  "author": "satuevsky",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satuevsky/sessions-store.git"
+  },
+  "dependencies": {
+    "node-shared-state": "0.0.4"
+  },
+  "devDependencies": {
+    "mongodb": "^3.0.1"
+  }
+}
